@@ -8,7 +8,8 @@ public class test3 {
 System.out.print(false);
 
 		System.out.print(true);
-
+		
+		System.out.print("hot_fix");
 	}
 
 }
